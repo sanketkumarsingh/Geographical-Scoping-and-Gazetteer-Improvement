@@ -1,0 +1,18 @@
+BUSH	bush(es)	a small clump of conspicuous bushes in an otherwise bare area
+CULT	cultivated area	an area under cultivation
+FRST	forest(s)	an area dominated by tree vegetation
+FRSTF	fossilized forest	a forest fossilized by geologic processes and now exposed at the earth's surface
+GRSLD	grassland	an area dominated by grass vegetation
+GRVC	coconut grove	a planting of coconut trees
+GRVO	olive grove	a planting of olive trees
+GRVP	palm grove	a planting of palm trees
+GRVPN	pine grove	a planting of pine trees
+HTH	heath	an upland moor or sandy area dominated by low shrubby vegetation including heather
+MDW	meadow	a small, poorly drained area dominated by grassy vegetation
+OCH	orchard(s)	a planting of fruit or nut trees
+SCRB	scrubland	an area of low trees, bushes, and shrubs stunted by some environmental limitation
+TREE	tree(s)	a conspicuous tree used as a landmark
+TUND	tundra	a marshy, treeless, high latitude plain, dominated by mosses, lichens, and low shrub vegetation under permafrost conditions
+VIN	vineyard	a planting of grapevines
+VINS	vineyards	plantings of grapevines
+ll	not available

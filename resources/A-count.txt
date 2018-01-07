@@ -1,0 +1,8 @@
+LTER	leased area	a tract of land leased to another country, usually for military installations
+PCL	political entity	
+PCLD	dependent political entity	
+PCLF	freely associated state	
+PCLH	historical political entity	a former political entity
+PCLI	independent political entity	
+PCLIX	section of independent political entity	
+PCLS	semi-independent political entity	
