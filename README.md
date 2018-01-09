@@ -6,4 +6,8 @@ https://bitbucket.org/sanketkumarsingh/gazetteer-improvement-and-enrichment/src/
 
 The code in this repo is updated and latest.
 
+geoname-mbrs_93274_places.txt -  contains MBRs generated through our methods.
+Each line of the file represents a place along with its MBR. There are total 6 columns per line which are tab separated. Columns are:
+geoname_id \t place_name \t  south_west_lat \t south_west_long \t north_east_lat \t north_east_long \n
+
 If you find any missing file or error, please add a comment/ create a issue.
